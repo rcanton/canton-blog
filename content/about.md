@@ -1,25 +1,21 @@
 +++
 title = "About"
 description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+date = "2019-01-28"
+aliases = ["about-us", "contact"]
+author = "Roberto Cantón"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+![Roberto](/images/rcanton.jpg)
 
-Hugo makes use of a variety of open source projects including:
+My name is Roberto Cantón.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I live in Pembroke Pines, FL, USA, just a tad northwest of Miami and southwest of Ft. Lauderdale, FL.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I'm a Cloud Solutions Architect at VMware currently supporting the Azure VMware Solution (AVS). I've been with VMware since 2013 in different roles. Started as a pre-sales vCloud Air SE, then moved to the pre-sales VMware Cloud on AWS SE group, more recently I was part of the Cloud Services Incubation Team. 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+I have more than 20 years of experience in IT, 16 of those working either directly or indirectly with virtualization and cloud technologies. 
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+I'm also part of the Office of the CTO Ambassador program at VMware and co-lead the Latinos@VMware Atlanta chapter.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+All the views expressed on this site and in my social media personas are mine and not those of my employer.
