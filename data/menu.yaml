@@ -4,7 +4,7 @@
   link: post/rich-content/
 # - name: Mus
 #   link: /categories/music/
-- name: Blog
+- name: Links
   submenu:
     - name: English
       link: post/en/
