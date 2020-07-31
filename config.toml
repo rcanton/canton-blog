@@ -1,9 +1,9 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseurl = "https://example.com/"  # Include trailing slash
-title = "Clarity"
-author = "Jane Doe"
-copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+title = "Roberto Cantón"
+author = "Roberto Cantón"
+copyright = "Copyright © 2020, Roberto Cantón; all rights reserved."
 # canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
@@ -21,8 +21,8 @@ theme = "hugo-clarity"
     tabWidth = 2
 
 [params]
-author = "Jane Doe"
-twitter = "@janedoe"
+author = "Roberto Cantón"
+twitter = "@vmrcanton"
 introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
 
 # Google analytics Id
@@ -47,7 +47,7 @@ mainSections = ["post"] # see config details here https://gohugo.io/functions/wh
 # center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.
 
-logo = "logos/logo.png"
+logo = "logos/roberto.png"
 
 # Label Non inline images on an article body
 figurePositionShow = false # toggle on or off globally
