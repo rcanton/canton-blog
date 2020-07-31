@@ -50,13 +50,13 @@ VMware HCX ofrece movilidad de aplicaciones de una forma segura e ininterrumpida
 
 ### Cold Migration
 
-![HCX Cold Migration](../../../images/blog/hcx4.png)
+![Cold Migration](../../../images/blog/hcx4.png)
 
 *Migración en "frío"* - La migración en frío utiliza la misma ruta de red que VMware HCX vMotion para transferir una máquina virtual apagada. Durante una migración en frío, se conservan la dirección IP de la máquina virtual y la dirección MAC. Las migraciones en frío deben satisfacer los requisitos de vMotion.
 
 ### HCX vMotion
 
-![HCX vMotion](../../../images/blog/hcx5.png)
+![vMotion](../../../images/blog/hcx5.png)
 
 *HCX vMotion* - VMware HCX vMotion puede transferir una máquina virtual en vivo desde un servidor vCenter habilitado para VMware HCX a un sitio remoto habilitado para VMware HCX (o desde el sitio de destino habilitado para VMware HCX hacia el sitio local. La transferencia vMotion captura la memoria activa de la máquina virtual, su estado de ejecución, su dirección IP y su dirección MAC. La duración de la migración depende de la conectividad, incluido el ancho de banda disponible y la latencia entre los dos sitios.
 
@@ -78,9 +78,15 @@ VMware HCX ofrece movilidad de aplicaciones de una forma segura e ininterrumpida
 
 ### HCX Cloud/HCX Target
 
-![HCX Cloud/HCX Target](../../../images/blog/hcx8.png)
+![HCX Cloud/HCX Target:left](../../../images/blog/hcx8.png)
+\
+\
+HCX Cloud o HCX Target, es básicamente HCX desplegado en el SDDC de VMware Cloud on AWS. Los mismo componentes que se despliegan on-premises son desplegados del lado del SDDC de VMware Cloud on AWS.  
+  
+    
 
-HCX Cloud o HCX Target, es básicamente HCX desplegado en el SDDC de VMware Cloud on AWS. Los mismo componentes que se despliegan on-premises son desplegados del lado del SDDC de VMware Cloud on AWS.
+
+    
 
 ### HCX Enterprise/HCX Manager
 
