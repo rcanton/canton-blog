@@ -4,11 +4,11 @@
   link: post/rich-content/
 # - name: Mus
 #   link: /categories/music/
-- name: Blog
+- name: Links
   submenu:
-    - name: English
-      link: post/en/
-    - name: Español
-      link: post/es/
+    - name: LinkedIn
+      link: https://www.linkedin.com/
+    - name: Twitter
+      link: https://twitter.com/
 - name: About
   link: about/
