@@ -19,3 +19,4 @@ I have more than 20 years of experience in IT, 16 of those working either direct
 I'm also part of the Office of the CTO Ambassador program at VMware and co-lead the Latinos@VMware Atlanta chapter.
 
 All the views expressed on this site and in my social media personas are mine and not those of my employer.
+
